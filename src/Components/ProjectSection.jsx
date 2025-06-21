@@ -8,7 +8,7 @@ const projects = [
     image: "/projects/project1.jpg",
     tags: ["React", "Node.js", "MongoDB"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Shailesh7210",
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ const projects = [
     image: "/projects/project2.png",
     tags: ["PHP", "HTML", "Javascript"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Shailesh7210",
   },
   {
     id: 3,
@@ -28,7 +28,7 @@ const projects = [
     image: "/projects/project3.png",
     tags: ["React", "Node.js", "Socket.io"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Shailesh7210",
   },
 ];
 
