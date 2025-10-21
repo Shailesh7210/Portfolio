@@ -27,8 +27,17 @@ const projects = [
       "Built a full-stack chat app with real-time messaging using MERN stack and Socket.IO",
     image: "/projects/project3.png",
     tags: ["React", "Node.js", "Socket.io"],
-    demoUrl: "#",
-    githubUrl: "https://github.com/Shailesh7210",
+    demoUrl: "https://mern-fullstack-chatapp.onrender.com",
+    githubUrl: "https://github.com/Shailesh7210/ChatApp",
+  },
+  {
+    id: 4,
+    title: "Text to image Generator",
+    description: " A simplified user-friendly web application for generating images using your text imaginations",
+    image: "/projects/project4.png",
+    tags: ["React", "Node.js", "MongoDB"],
+    demoUrl: "https://imagez-client-x4pg.onrender.com",
+    githubUrl: "https://github.com/Shailesh7210/imageZ",
   },
 ];
 
